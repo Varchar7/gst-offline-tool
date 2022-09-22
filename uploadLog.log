@@ -1,0 +1,115 @@
+{"level":"info","message":"Entering routes:: user.js :: /listJsonData","timestamp":"2022-09-22T14:12:01.537Z"}
+{"level":"info","message":"Entering Offline js:: listJsonData ","timestamp":"2022-09-22T14:12:01.538Z"}
+{"level":"info","message":"Data NO JSON FILE EXISTS FOR SELECTION","timestamp":"2022-09-22T14:12:01.539Z"}
+{"level":"info","message":"Entering routes:: user.js :: /addtbldata","timestamp":"2022-09-22T14:13:05.156Z"}
+{"level":"info","message":"Entering Offline js:: addtbldata ","timestamp":"2022-09-22T14:13:05.158Z"}
+{"level":"info","message":"entered in async.waterfall function 1","timestamp":"2022-09-22T14:13:05.159Z"}
+{"level":"info","message":"entered to formDataFormat","timestamp":"2022-09-22T14:13:05.160Z"}
+{"level":"info","message":" creating formDataFormat of form without gt :: GSTR1 ","timestamp":"2022-09-22T14:13:05.161Z"}
+{"level":"info","message":"entered in async.waterfall formDataFormat","timestamp":"2022-09-22T14:13:05.163Z"}
+{"level":"info","message":"entered in async.waterfall function 2","timestamp":"2022-09-22T14:13:05.165Z"}
+{"level":"info","message":"file is there.We will append data into it","timestamp":"2022-09-22T14:13:05.168Z"}
+{"level":"info","message":"entered in b2b & b2ba section","timestamp":"2022-09-22T14:13:05.168Z"}
+{"level":"info","message":"No duplicate invoice found and data added successfully","timestamp":"2022-09-22T14:13:05.169Z"}
+{"level":"info","message":"entered in async.waterfall function","timestamp":"2022-09-22T14:13:05.170Z"}
+{"level":"info","message":"Data added successfully :: Success! Returns details added.","timestamp":"2022-09-22T14:13:05.170Z"}
+{"level":"info","message":"Entering  Response :: Success response","timestamp":"2022-09-22T14:13:05.170Z"}
+{"level":"debug","message":"data:: \"Success! Returns details added.\"","timestamp":"2022-09-22T14:13:05.170Z"}
+{"level":"info","message":"Exiting Response :: Success response","timestamp":"2022-09-22T14:13:05.171Z"}
+{"level":"info","message":"Entering routes:: user.js :: /addtblfile","timestamp":"2022-09-22T14:13:56.262Z"}
+{"level":"info","message":"Entering Offline js:: addtbldata ","timestamp":"2022-09-22T14:13:56.262Z"}
+{"level":"error","message":"DP NO JSON FILE EXISTS FOR SELECTION","timestamp":"2022-09-22T14:14:14.794Z"}
+{"level":"error","message":"DP NO JSON FILE EXISTS FOR SELECTION","timestamp":"2022-09-22T14:14:14.794Z"}
+{"level":"error","message":"DP NO JSON FILE EXISTS FOR SELECTION","timestamp":"2022-09-22T14:14:14.795Z"}
+{"level":"error","message":"DP NO JSON FILE EXISTS FOR SELECTION","timestamp":"2022-09-22T14:14:14.795Z"}
+{"level":"error","message":"DP NO JSON FILE EXISTS FOR SELECTION","timestamp":"2022-09-22T14:14:14.795Z"}
+{"level":"error","message":"DP NO JSON FILE EXISTS FOR SELECTION","timestamp":"2022-09-22T14:14:14.795Z"}
+{"level":"error","message":"DP NO JSON FILE EXISTS FOR SELECTION","timestamp":"2022-09-22T14:14:14.825Z"}
+{"level":"error","message":"DP NO JSON FILE EXISTS FOR SELECTION","timestamp":"2022-09-22T14:14:14.825Z"}
+{"level":"error","message":"DP NO JSON FILE EXISTS FOR SELECTION","timestamp":"2022-09-22T14:14:14.826Z"}
+{"level":"error","message":"DP NO JSON FILE EXISTS FOR SELECTION","timestamp":"2022-09-22T14:14:14.826Z"}
+{"level":"error","message":"DP NO JSON FILE EXISTS FOR SELECTION","timestamp":"2022-09-22T14:14:14.827Z"}
+{"level":"error","message":"DP NO JSON FILE EXISTS FOR SELECTION","timestamp":"2022-09-22T14:14:14.827Z"}
+{"level":"error","message":"DP NO JSON FILE EXISTS FOR SELECTION","timestamp":"2022-09-22T14:14:14.827Z"}
+{"level":"error","message":"DP NO JSON FILE EXISTS FOR SELECTION","timestamp":"2022-09-22T14:14:14.827Z"}
+{"level":"error","message":"DP NO JSON FILE EXISTS FOR SELECTION","timestamp":"2022-09-22T14:14:14.827Z"}
+{"level":"error","message":"DP NO JSON FILE EXISTS FOR SELECTION","timestamp":"2022-09-22T14:14:14.828Z"}
+{"level":"error","message":"DP NO JSON FILE EXISTS FOR SELECTION","timestamp":"2022-09-22T14:14:14.828Z"}
+{"level":"error","message":"DP NO JSON FILE EXISTS FOR SELECTION","timestamp":"2022-09-22T14:14:14.828Z"}
+{"level":"error","message":"DP NO JSON FILE EXISTS FOR SELECTION","timestamp":"2022-09-22T14:14:14.828Z"}
+{"level":"error","message":"DP NO JSON FILE EXISTS FOR SELECTION","timestamp":"2022-09-22T14:14:14.917Z"}
+{"level":"error","message":"DP NO JSON FILE EXISTS FOR SELECTION","timestamp":"2022-09-22T14:14:14.918Z"}
+{"level":"error","message":"DP NO JSON FILE EXISTS FOR SELECTION","timestamp":"2022-09-22T14:14:14.918Z"}
+{"level":"error","message":"DP NO JSON FILE EXISTS FOR SELECTION","timestamp":"2022-09-22T14:14:14.918Z"}
+{"level":"error","message":"DP NO JSON FILE EXISTS FOR SELECTION","timestamp":"2022-09-22T14:14:14.918Z"}
+{"level":"error","message":"DP NO JSON FILE EXISTS FOR SELECTION","timestamp":"2022-09-22T14:14:14.918Z"}
+{"level":"error","message":"DP NO JSON FILE EXISTS FOR SELECTION","timestamp":"2022-09-22T14:14:14.919Z"}
+{"level":"error","message":"DP NO JSON FILE EXISTS FOR SELECTION","timestamp":"2022-09-22T14:14:14.919Z"}
+{"level":"error","message":"DP NO JSON FILE EXISTS FOR SELECTION","timestamp":"2022-09-22T14:14:14.919Z"}
+{"level":"error","message":"DP NO JSON FILE EXISTS FOR SELECTION","timestamp":"2022-09-22T14:14:14.919Z"}
+{"level":"error","message":"DP NO JSON FILE EXISTS FOR SELECTION","timestamp":"2022-09-22T14:14:14.919Z"}
+{"level":"error","message":"DP NO JSON FILE EXISTS FOR SELECTION","timestamp":"2022-09-22T14:14:14.920Z"}
+{"level":"error","message":"DP NO JSON FILE EXISTS FOR SELECTION","timestamp":"2022-09-22T14:14:14.920Z"}
+{"level":"error","message":"DP NO JSON FILE EXISTS FOR SELECTION","timestamp":"2022-09-22T14:14:14.920Z"}
+{"level":"error","message":"DP NO JSON FILE EXISTS FOR SELECTION","timestamp":"2022-09-22T14:14:14.941Z"}
+{"level":"error","message":"DP NO JSON FILE EXISTS FOR SELECTION","timestamp":"2022-09-22T14:14:14.941Z"}
+{"level":"error","message":"DP NO JSON FILE EXISTS FOR SELECTION","timestamp":"2022-09-22T14:14:14.941Z"}
+{"level":"error","message":"DP NO JSON FILE EXISTS FOR SELECTION","timestamp":"2022-09-22T14:14:14.941Z"}
+{"level":"error","message":"DP NO JSON FILE EXISTS FOR SELECTION","timestamp":"2022-09-22T14:14:14.942Z"}
+{"level":"error","message":"DP NO JSON FILE EXISTS FOR SELECTION","timestamp":"2022-09-22T14:14:14.942Z"}
+{"level":"error","message":"DP NO JSON FILE EXISTS FOR SELECTION","timestamp":"2022-09-22T14:14:14.942Z"}
+{"level":"error","message":"DP NO JSON FILE EXISTS FOR SELECTION","timestamp":"2022-09-22T14:14:14.942Z"}
+{"level":"info","message":"Entering routes:: user.js :: /addmltpldata","timestamp":"2022-09-22T14:14:15.070Z"}
+{"level":"info","message":"Entering Offline File:: addmltpldata ","timestamp":"2022-09-22T14:14:15.071Z"}
+{"level":"info","message":"entered in async.waterfall function 0, cehcking for data-cache","timestamp":"2022-09-22T14:14:15.071Z"}
+{"level":"info","message":"entered in async.waterfall function 1","timestamp":"2022-09-22T14:14:15.077Z"}
+{"level":"info","message":"entered to formDataFormat","timestamp":"2022-09-22T14:14:15.078Z"}
+{"level":"info","message":" creating formDataFormat of form without gt :: GSTR1 ","timestamp":"2022-09-22T14:14:15.078Z"}
+{"level":"info","message":"entered in async.waterfall formDataFormat","timestamp":"2022-09-22T14:14:15.078Z"}
+{"level":"info","message":"entered in cdnur section","timestamp":"2022-09-22T14:14:15.085Z"}
+{"level":"info","message":"entered in cdnur section","timestamp":"2022-09-22T14:14:15.085Z"}
+{"level":"info","message":"duplicate invoice found and non duplicated rows added successfully","timestamp":"2022-09-22T14:14:15.089Z"}
+{"level":"info","message":"entered in async.waterfall function","timestamp":"2022-09-22T14:14:15.089Z"}
+{"level":"info","message":"Return Details Added Successfully :: [ 'cdnura:90015' ]","timestamp":"2022-09-22T14:14:15.092Z"}
+{"level":"info","message":"Entering  Response :: Success response","timestamp":"2022-09-22T14:14:15.092Z"}
+{"level":"debug","message":"data:: [\"cdnura:90015\"]","timestamp":"2022-09-22T14:14:15.093Z"}
+{"level":"info","message":"Exiting Response :: Success response","timestamp":"2022-09-22T14:14:15.093Z"}
+{"level":"info","message":"Entering routes:: user.js :: /listJsonData","timestamp":"2022-09-22T14:14:24.725Z"}
+{"level":"info","message":"Entering Offline js:: listJsonData ","timestamp":"2022-09-22T14:14:24.726Z"}
+{"level":"info","message":"Entering routes:: user.js :: /listJsonData","timestamp":"2022-09-22T14:14:24.776Z"}
+{"level":"info","message":"Entering Offline js:: listJsonData ","timestamp":"2022-09-22T14:14:24.776Z"}
+{"level":"info","message":"Entering routes:: user.js :: /getMasterData","timestamp":"2022-09-22T14:14:24.782Z"}
+{"level":"error","message":"GET MSTR NO JSON FILE EXISTS FOR SELECTION","timestamp":"2022-09-22T14:14:24.782Z"}
+{"level":"info","message":"Entering routes:: user.js :: /getMasterData","timestamp":"2022-09-22T14:14:25.047Z"}
+{"level":"error","message":"GET MSTR NO JSON FILE EXISTS FOR SELECTION","timestamp":"2022-09-22T14:14:25.047Z"}
+{"level":"info","message":"Entering routes:: user.js :: /listJsonData","timestamp":"2022-09-22T14:14:30.392Z"}
+{"level":"info","message":"Entering Offline js:: listJsonData ","timestamp":"2022-09-22T14:14:30.392Z"}
+{"level":"info","message":"Entering routes:: user.js :: /listJsonData","timestamp":"2022-09-22T14:14:30.437Z"}
+{"level":"info","message":"Entering Offline js:: listJsonData ","timestamp":"2022-09-22T14:14:30.437Z"}
+{"level":"info","message":"Entering routes:: user.js :: /getMasterData","timestamp":"2022-09-22T14:14:30.443Z"}
+{"level":"error","message":"GET MSTR NO JSON FILE EXISTS FOR SELECTION","timestamp":"2022-09-22T14:14:30.443Z"}
+{"level":"info","message":"Entering routes:: user.js :: /getMasterData","timestamp":"2022-09-22T14:14:30.734Z"}
+{"level":"error","message":"GET MSTR NO JSON FILE EXISTS FOR SELECTION","timestamp":"2022-09-22T14:14:30.734Z"}
+{"level":"info","message":"Entering routes:: user.js :: /listJsonData","timestamp":"2022-09-22T14:14:32.005Z"}
+{"level":"info","message":"Entering Offline js:: listJsonData ","timestamp":"2022-09-22T14:14:32.006Z"}
+{"level":"info","message":"Entering routes:: user.js :: /listJsonData","timestamp":"2022-09-22T14:14:32.059Z"}
+{"level":"info","message":"Entering Offline js:: listJsonData ","timestamp":"2022-09-22T14:14:32.059Z"}
+{"level":"info","message":"Entering routes:: user.js :: /getMasterData","timestamp":"2022-09-22T14:14:32.062Z"}
+{"level":"error","message":"GET MSTR NO JSON FILE EXISTS FOR SELECTION","timestamp":"2022-09-22T14:14:32.062Z"}
+{"level":"info","message":"Entering routes:: user.js :: /getMasterData","timestamp":"2022-09-22T14:14:32.270Z"}
+{"level":"error","message":"GET MSTR NO JSON FILE EXISTS FOR SELECTION","timestamp":"2022-09-22T14:14:32.270Z"}
+{"level":"info","message":"Entering routes:: user.js :: /listJsonData","timestamp":"2022-09-22T14:14:33.907Z"}
+{"level":"info","message":"Entering Offline js:: listJsonData ","timestamp":"2022-09-22T14:14:33.907Z"}
+{"level":"info","message":"Entering routes:: user.js :: /listJsonData","timestamp":"2022-09-22T14:14:33.957Z"}
+{"level":"info","message":"Entering Offline js:: listJsonData ","timestamp":"2022-09-22T14:14:33.957Z"}
+{"level":"info","message":"Entering routes:: user.js :: /getMasterData","timestamp":"2022-09-22T14:14:33.964Z"}
+{"level":"error","message":"GET MSTR NO JSON FILE EXISTS FOR SELECTION","timestamp":"2022-09-22T14:14:33.965Z"}
+{"level":"info","message":"Entering routes:: user.js :: /getMasterData","timestamp":"2022-09-22T14:14:34.025Z"}
+{"level":"error","message":"GET MSTR NO JSON FILE EXISTS FOR SELECTION","timestamp":"2022-09-22T14:14:34.026Z"}
+{"level":"info","message":"Entering routes:: user.js :: /fetchMeta","timestamp":"2022-09-22T14:14:36.430Z"}
+{"level":"info","message":"Entering Offline js:: fetchMeta ","timestamp":"2022-09-22T14:14:36.430Z"}
+{"level":"info","message":"Entering  Response :: Success response","timestamp":"2022-09-22T14:14:36.437Z"}
+{"level":"debug","message":"data:: {\"gstin\":\"34CIPPS5925M1ZF\",\"fp\":\"042019\",\"version\":\"GST3.1.6\",\"hash\":\"hash\",\"counts\":[{\"cd\":\"b2b\",\"result\":{\"cgTl\":0,\"sgTl\":0,\"igTl\":42695,\"csTl\":10480},\"count\":12,\"name\":\"B2B, SEZ, DE Invoices - 4A, 4B, 6B, 6C\"},{\"cd\":\"b2ba\",\"result\":{\"cgTl\":0,\"sgTl\":0,\"igTl\":51878.08,\"csTl\":13190},\"count\":13,\"name\":\"Amended B2B Invoices\"},{\"cd\":\"b2cl\",\"result\":{\"cgTl\":0,\"sgTl\":0,\"igTl\":110872.9,\"csTl\":124536},\"count\":6,\"name\":\"B2C(Large) Invoices - 5A, 5B\"},{\"cd\":\"b2cla\",\"result\":{\"cgTl\":0,\"sgTl\":0,\"igTl\":112058,\"csTl\":124536},\"count\":6,\"name\":\"Amended B2C(Large) Invoices\"},{\"cd\":\"b2cs\",\"result\":{\"cgTl\":0,\"sgTl\":0,\"igTl\":40200.38,\"csTl\":20756},\"count\":5,\"name\":\"B2C(Small) Details - 7\"},{\"cd\":\"b2csa\",\"result\":{\"cgTl\":15000,\"sgTl\":15000,\"igTl\":62550.09,\"csTl\":40756},\"count\":6,\"name\":\"Amended B2C(Small) Details\"},{\"cd\":\"cdnr\",\"result\":{\"cgTl\":0,\"sgTl\":0,\"igTl\":148.89,\"csTl\":0},\"count\":14,\"name\":\"Credit/Debit Notes(Registered) - 9B\"},{\"cd\":\"cdnra\",\"result\":{\"cgTl\":0,\"sgTl\":0,\"igTl\":-29790,\"csTl\":-300},\"count\":8,\"name\":\"Amended Credit/Debit Notes(Registered)\"},{\"cd\":\"cdnur\",\"result\":{\"cgTl\":0,\"sgTl\":0,\"igTl\":4754.79,\"csTl\":6800},\"count\":7,\"name\":\"Credit/Debit Notes(Unregistered) - 9B\"},{\"cd\":\"cdnura\",\"result\":{\"cgTl\":0,\"sgTl\":0,\"igTl\":-11485,\"csTl\":6566},\"count\":7,\"name\":\"Amended Credit/Debit Notes(Unregistered)\"},{\"cd\":\"exp\",\"result\":{\"cgTl\":0,\"sgTl\":0,\"igTl\":21095.09,\"csTl\":0},\"count\":6,\"name\":\"Exports Invoices - 6A\"},{\"cd\":\"expa\",\"result\":{\"cgTl\":0,\"sgTl\":0,\"igTl\":21095.09,\"csTl\":0},\"count\":7,\"name\":\"Amended Exports Invoices\"},{\"cd\":\"at\",\"result\":{\"cgTl\":0,\"sgTl\":0,\"igTl\":4326.24,\"csTl\":36122},\"count\":5,\"name\":\"Tax Liability(Advances Recieved) - 11A(1), 11A(2)\"},{\"cd\":\"ata\",\"result\":{\"cgTl\":0,\"sgTl\":0,\"igTl\":3298.39,\"csTl\":334243},\"count\":6,\"name\":\"Amended Tax Liability(Advances Recieved)\"},{\"cd\":\"atadj\",\"result\":{\"cgTl\":0,\"sgTl\":0,\"igTl\":7470,\"csTl\":4500},\"count\":3,\"name\":\"Adjustment of Advances - 11B(1), 11B(2)\"},{\"cd\":\"atadja\",\"result\":{\"cgTl\":0,\"sgTl\":0,\"igTl\":3633.5,\"csTl\":5500},\"count\":5,\"name\":\"Amended Adjustment of Advances\"},{\"cd\":\"hsn\",\"result\":{\"cgTl\":-6,\"sgTl\":86595,\"igTl\":9683,\"csTl\":801},\"count\":8,\"name\":\"HSN-wise Summary of Outward Supplies - 12\"}]}","timestamp":"2022-09-22T14:14:36.437Z"}
+{"level":"info","message":"Exiting Response :: Success response","timestamp":"2022-09-22T14:14:36.437Z"}
+{"level":"info","message":"Entering routes:: user.js :: /generateFile","timestamp":"2022-09-22T14:14:41.952Z"}
+{"level":"info","message":"Entering Offline File:: generateFile ","timestamp":"2022-09-22T14:14:41.953Z"}

@@ -1,0 +1,1883 @@
+{
+  "gstin": "34CIPPS5925M1ZF",
+  "fp": "042019",
+  "version": "GST3.1.6",
+  "hash": "hash",
+  "b2b": [
+    {
+      "ctin": "12GEOPS0823BBZH",
+      "inv": [
+        {
+          "inum": "A1001",
+          "idt": "14-07-2017",
+          "val": 43000,
+          "pos": "12",
+          "rchrg": "N",
+          "inv_typ": "DE",
+          "itms": [
+            {
+              "num": 501,
+              "itm_det": { "txval": 40000, "rt": 5, "iamt": 2000, "csamt": 0 }
+            },
+            {
+              "num": 1201,
+              "itm_det": { "txval": 40000, "rt": 12, "iamt": 4800, "csamt": 0 }
+            }
+          ]
+        },
+        {
+          "inum": "1000A",
+          "idt": "14-07-2017",
+          "val": 42000,
+          "pos": "36",
+          "rchrg": "N",
+          "inv_typ": "DE",
+          "itms": [
+            {
+              "num": 1201,
+              "itm_det": { "txval": 40000, "rt": 12, "iamt": 4800, "csamt": 0 }
+            }
+          ]
+        },
+        {
+          "inum": "A/1001",
+          "idt": "14-07-2017",
+          "val": 55000,
+          "pos": "05",
+          "rchrg": "Y",
+          "inv_typ": "R",
+          "itms": [
+            {
+              "num": 2801,
+              "itm_det": {
+                "txval": 50000,
+                "rt": 28,
+                "iamt": 14000,
+                "csamt": 6700
+              }
+            }
+          ]
+        },
+        {
+          "inum": "A/1002",
+          "idt": "14-07-2017",
+          "val": 40330,
+          "pos": "05",
+          "rchrg": "Y",
+          "inv_typ": "R",
+          "itms": [
+            {
+              "num": 26,
+              "itm_det": { "txval": 40000, "rt": 0.25, "iamt": 100, "csamt": 0 }
+            }
+          ]
+        },
+        {
+          "inum": "A/1003",
+          "idt": "14-07-2017",
+          "val": 50000,
+          "pos": "37",
+          "rchrg": "N",
+          "inv_typ": "R",
+          "itms": [
+            {
+              "num": 1201,
+              "itm_det": { "txval": 10000, "rt": 12, "iamt": 1200, "csamt": 0 }
+            }
+          ]
+        },
+        {
+          "inum": "1-10010",
+          "idt": "15-07-2017",
+          "val": 48000,
+          "pos": "36",
+          "rchrg": "N",
+          "inv_typ": "SEWOP",
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": { "txval": 40000, "rt": 0, "iamt": 0, "csamt": 0 }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ctin": "24AAGCC8958A1ZP",
+      "inv": [
+        {
+          "inum": "1001",
+          "idt": "14-07-2017",
+          "val": 50000,
+          "pos": "37",
+          "rchrg": "N",
+          "diff_percent": 0.65,
+          "inv_typ": "R",
+          "itms": [
+            {
+              "num": 601,
+              "itm_det": { "txval": 45000, "rt": 6, "iamt": 1755, "csamt": 756 }
+            }
+          ]
+        },
+        {
+          "inum": "1002",
+          "idt": "14-07-2017",
+          "val": 50000,
+          "pos": "37",
+          "rchrg": "N",
+          "diff_percent": 0.65,
+          "inv_typ": "SEWP",
+          "itms": [
+            {
+              "num": 1201,
+              "itm_det": {
+                "txval": 45000,
+                "rt": 12,
+                "iamt": 3510,
+                "csamt": 756
+              }
+            }
+          ]
+        },
+        {
+          "inum": "1003",
+          "idt": "14-07-2017",
+          "val": 50000,
+          "pos": "37",
+          "rchrg": "N",
+          "diff_percent": 0.65,
+          "inv_typ": "SEWOP",
+          "itms": [
+            {
+              "num": 1201,
+              "itm_det": { "txval": 45000, "rt": 12, "iamt": 0, "csamt": 0 }
+            }
+          ]
+        },
+        {
+          "inum": "1004",
+          "idt": "14-07-2017",
+          "val": 50000,
+          "pos": "37",
+          "rchrg": "N",
+          "diff_percent": 0.65,
+          "inv_typ": "DE",
+          "itms": [
+            {
+              "num": 1201,
+              "itm_det": {
+                "txval": 45000,
+                "rt": 12,
+                "iamt": 3510,
+                "csamt": 756
+              }
+            }
+          ]
+        },
+        {
+          "inum": "1005",
+          "idt": "14-07-2017",
+          "val": 50000,
+          "pos": "37",
+          "rchrg": "N",
+          "diff_percent": 0.65,
+          "inv_typ": "R",
+          "itms": [
+            {
+              "num": 1201,
+              "itm_det": {
+                "txval": 45000,
+                "rt": 12,
+                "iamt": 3510,
+                "csamt": 756
+              }
+            }
+          ]
+        },
+        {
+          "inum": "1006",
+          "idt": "14-07-2017",
+          "val": 50000,
+          "pos": "37",
+          "rchrg": "N",
+          "diff_percent": 0.65,
+          "inv_typ": "R",
+          "itms": [
+            {
+              "num": 1201,
+              "itm_det": {
+                "txval": 45000,
+                "rt": 12,
+                "iamt": 3510,
+                "csamt": 756
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "b2ba": [
+    {
+      "ctin": "12GEOPS0823BBZH",
+      "inv": [
+        {
+          "oinum": "1000",
+          "oidt": "14-07-2017",
+          "inum": "S1000",
+          "idt": "14-08-2017",
+          "val": 50000,
+          "pos": "37",
+          "rchrg": "Y",
+          "inv_typ": "CBW",
+          "itms": [
+            {
+              "num": 601,
+              "itm_det": { "txval": 45000, "rt": 6, "iamt": 2700, "csamt": 756 }
+            }
+          ]
+        },
+        {
+          "oinum": "A1001",
+          "oidt": "14-07-2017",
+          "inum": "S1001",
+          "idt": "14-08-2017",
+          "val": 43000,
+          "pos": "37",
+          "rchrg": "N",
+          "inv_typ": "R",
+          "itms": [
+            {
+              "num": 501,
+              "itm_det": { "txval": 40000, "rt": 5, "iamt": 2000, "csamt": 234 }
+            }
+          ]
+        },
+        {
+          "oinum": "1000A",
+          "oidt": "14-07-2017",
+          "inum": "S1002",
+          "idt": "14-08-2017",
+          "val": 42000,
+          "pos": "32",
+          "rchrg": "N",
+          "inv_typ": "R",
+          "itms": [
+            {
+              "num": 1201,
+              "itm_det": { "txval": 40000, "rt": 12, "iamt": 4800, "csamt": 0 }
+            }
+          ]
+        },
+        {
+          "oinum": "A/1001",
+          "oidt": "14-07-2017",
+          "inum": "S1003",
+          "idt": "14-08-2017",
+          "val": 5000,
+          "pos": "37",
+          "rchrg": "Y",
+          "inv_typ": "R",
+          "itms": [
+            {
+              "num": 2801,
+              "itm_det": {
+                "txval": 50000,
+                "rt": 28,
+                "iamt": 14000,
+                "csamt": 6700
+              }
+            }
+          ]
+        },
+        {
+          "oinum": "A/1002",
+          "oidt": "14-07-2017",
+          "inum": "S1004",
+          "idt": "14-08-2017",
+          "val": 2000,
+          "pos": "04",
+          "rchrg": "Y",
+          "inv_typ": "R",
+          "itms": [
+            {
+              "num": 26,
+              "itm_det": { "txval": 40000, "rt": 0.25, "iamt": 100, "csamt": 0 }
+            }
+          ]
+        },
+        {
+          "oinum": "A/1003",
+          "oidt": "14-07-2017",
+          "inum": "S1005",
+          "idt": "14-08-2017",
+          "val": 50000,
+          "pos": "04",
+          "rchrg": "N",
+          "inv_typ": "R",
+          "itms": [
+            {
+              "num": 1201,
+              "itm_det": { "txval": 234, "rt": 12, "iamt": 28.08, "csamt": 0 }
+            }
+          ]
+        },
+        {
+          "oinum": "A/1004",
+          "oidt": "14-07-2017",
+          "inum": "S1006",
+          "idt": "14-08-2017",
+          "val": 50000,
+          "pos": "03",
+          "rchrg": "N",
+          "inv_typ": "R",
+          "itms": [
+            {
+              "num": 501,
+              "itm_det": { "txval": 35000, "rt": 5, "iamt": 1750, "csamt": 0 }
+            }
+          ]
+        },
+        {
+          "oinum": "1/1005",
+          "oidt": "14-07-2017",
+          "inum": "S1007",
+          "idt": "14-08-2017",
+          "val": 44000,
+          "pos": "07",
+          "rchrg": "N",
+          "inv_typ": "R",
+          "itms": [
+            {
+              "num": 1201,
+              "itm_det": {
+                "txval": 40000,
+                "rt": 12,
+                "iamt": 4800,
+                "csamt": 500
+              }
+            }
+          ]
+        },
+        {
+          "oinum": "A-10010",
+          "oidt": "14-07-2017",
+          "inum": "S1008",
+          "idt": "14-08-2017",
+          "val": 26000,
+          "pos": "08",
+          "rchrg": "N",
+          "inv_typ": "R",
+          "itms": [
+            {
+              "num": 1801,
+              "itm_det": { "txval": 25000, "rt": 18, "iamt": 4500, "csamt": 0 }
+            }
+          ]
+        },
+        {
+          "oinum": "1-10010",
+          "oidt": "14-07-2017",
+          "inum": "S1009",
+          "idt": "14-08-2017",
+          "val": 48000,
+          "pos": "02",
+          "rchrg": "N",
+          "inv_typ": "R",
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": { "txval": 40000, "rt": 0, "iamt": 0, "csamt": 0 }
+            }
+          ]
+        },
+        {
+          "oinum": "A-KNP/1000/06-17",
+          "oidt": "14-07-2017",
+          "inum": "S1010",
+          "idt": "14-08-2017",
+          "val": 45000,
+          "pos": "15",
+          "rchrg": "N",
+          "inv_typ": "R",
+          "itms": [
+            {
+              "num": 301,
+              "itm_det": { "txval": 40000, "rt": 3, "iamt": 1200, "csamt": 0 }
+            }
+          ]
+        },
+        {
+          "oinum": "06-17/LKO/1052",
+          "oidt": "14-07-2017",
+          "inum": "S1011",
+          "idt": "14-08-2017",
+          "val": 43000,
+          "pos": "25",
+          "rchrg": "N",
+          "inv_typ": "R",
+          "itms": [
+            {
+              "num": 1201,
+              "itm_det": { "txval": 40000, "rt": 12, "iamt": 4800, "csamt": 0 }
+            }
+          ]
+        },
+        {
+          "oinum": "06-17/LKO/1053",
+          "oidt": "14-07-2017",
+          "inum": "S1012",
+          "idt": "14-08-2017",
+          "val": 43000,
+          "pos": "31",
+          "rchrg": "Y",
+          "inv_typ": "R",
+          "itms": [
+            {
+              "num": 2801,
+              "itm_det": {
+                "txval": 40000,
+                "rt": 28,
+                "iamt": 11200,
+                "csamt": 5000
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "b2cl": [
+    {
+      "pos": "37",
+      "inv": [
+        {
+          "inum": "10001",
+          "idt": "14-07-2017",
+          "val": 250000.01,
+          "diff_percent": 0.65,
+          "itms": [
+            {
+              "num": 601,
+              "itm_det": {
+                "txval": 345600,
+                "rt": 6,
+                "iamt": 13478.4,
+                "csamt": 20756
+              }
+            }
+          ]
+        },
+        {
+          "inum": "10002",
+          "idt": "14-07-2017",
+          "val": 250000.01,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": { "txval": 255000, "rt": 0, "iamt": 0, "csamt": 20756 }
+            }
+          ]
+        },
+        {
+          "inum": "10004",
+          "idt": "14-07-2017",
+          "val": 250000.01,
+          "diff_percent": 0.65,
+          "itms": [
+            {
+              "num": 501,
+              "itm_det": {
+                "txval": 265000,
+                "rt": 5,
+                "iamt": 8612.5,
+                "csamt": 20756
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pos": "32",
+      "inv": [
+        {
+          "inum": "10003",
+          "idt": "14-07-2017",
+          "val": 250000.01,
+          "itms": [
+            {
+              "num": 1201,
+              "itm_det": {
+                "txval": 255000,
+                "rt": 12,
+                "iamt": 30600,
+                "csamt": 20756
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pos": "04",
+      "inv": [
+        {
+          "inum": "10005",
+          "idt": "14-07-2017",
+          "val": 250901,
+          "itms": [
+            {
+              "num": 501,
+              "itm_det": {
+                "txval": 250000,
+                "rt": 5,
+                "iamt": 12500,
+                "csamt": 20756
+              }
+            }
+          ]
+        },
+        {
+          "inum": "10006",
+          "idt": "14-07-2017",
+          "val": 250901,
+          "diff_percent": 0.65,
+          "itms": [
+            {
+              "num": 2801,
+              "itm_det": {
+                "txval": 251000,
+                "rt": 28,
+                "iamt": 45682,
+                "csamt": 20756
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "b2cla": [
+    {
+      "pos": "37",
+      "inv": [
+        {
+          "oinum": "10001",
+          "oidt": "14-07-2017",
+          "inum": "A1000",
+          "idt": "15-09-2017",
+          "val": 250000.01,
+          "itms": [
+            {
+              "num": 601,
+              "itm_det": {
+                "txval": 345600,
+                "rt": 6,
+                "iamt": 20736,
+                "csamt": 20756
+              }
+            }
+          ]
+        },
+        {
+          "oinum": "10002",
+          "oidt": "14-07-2017",
+          "inum": "A1001",
+          "idt": "16-09-2017",
+          "val": 250000.01,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": { "txval": 255000, "rt": 0, "iamt": 0, "csamt": 20756 }
+            }
+          ]
+        },
+        {
+          "oinum": "10004",
+          "oidt": "14-07-2017",
+          "inum": "A1003",
+          "idt": "18-09-2017",
+          "val": 2500000,
+          "itms": [
+            {
+              "num": 501,
+              "itm_det": {
+                "txval": 265000,
+                "rt": 5,
+                "iamt": 13250,
+                "csamt": 20756
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pos": "32",
+      "inv": [
+        {
+          "oinum": "10003",
+          "oidt": "14-07-2017",
+          "inum": "A1002",
+          "idt": "17-09-2017",
+          "val": 250000.01,
+          "diff_percent": 0.65,
+          "itms": [
+            {
+              "num": 1201,
+              "itm_det": {
+                "txval": 255000,
+                "rt": 12,
+                "iamt": 19890,
+                "csamt": 20756
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pos": "04",
+      "inv": [
+        {
+          "oinum": "10005",
+          "oidt": "14-07-2017",
+          "inum": "A1004",
+          "idt": "19-09-2017",
+          "val": 250901,
+          "itms": [
+            {
+              "num": 501,
+              "itm_det": {
+                "txval": 250000,
+                "rt": 5,
+                "iamt": 12500,
+                "csamt": 20756
+              }
+            }
+          ]
+        },
+        {
+          "oinum": "10006",
+          "oidt": "14-07-2017",
+          "inum": "A1005",
+          "idt": "20-09-2017",
+          "val": 250901,
+          "diff_percent": 0.65,
+          "itms": [
+            {
+              "num": 2801,
+              "itm_det": {
+                "txval": 251000,
+                "rt": 28,
+                "iamt": 45682,
+                "csamt": 20756
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "b2cs": [
+    {
+      "sply_ty": "INTER",
+      "rt": 6,
+      "typ": "OE",
+      "pos": "33",
+      "txval": -500000,
+      "iamt": -30000,
+      "csamt": 0
+    },
+    {
+      "sply_ty": "INTER",
+      "rt": 28,
+      "typ": "OE",
+      "pos": "37",
+      "diff_percent": 0.65,
+      "txval": 50000,
+      "iamt": 9100,
+      "csamt": 20756
+    },
+    {
+      "sply_ty": "INTER",
+      "rt": 12,
+      "typ": "OE",
+      "pos": "38",
+      "txval": 250000,
+      "iamt": 30000,
+      "csamt": 0
+    },
+    {
+      "sply_ty": "INTER",
+      "rt": 5,
+      "typ": "OE",
+      "pos": "32",
+      "txval": 76000.45,
+      "iamt": 3800.02,
+      "csamt": 0
+    },
+    {
+      "sply_ty": "INTER",
+      "rt": 12,
+      "typ": "OE",
+      "pos": "36",
+      "diff_percent": 0.65,
+      "txval": 350004.56,
+      "iamt": 27300.36,
+      "csamt": 0
+    }
+  ],
+  "b2csa": [
+    {
+      "omon": "072020",
+      "sply_ty": "INTRA",
+      "typ": "OE",
+      "pos": "34",
+      "itms": [
+        { "rt": 6, "txval": 500000, "camt": 15000, "samt": 15000, "csamt": 0 }
+      ]
+    },
+    {
+      "omon": "072020",
+      "sply_ty": "INTER",
+      "typ": "OE",
+      "pos": "37",
+      "itms": [{ "rt": 28, "txval": 50000, "iamt": 14000, "csamt": 20756 }]
+    },
+    {
+      "omon": "072020",
+      "sply_ty": "INTER",
+      "typ": "OE",
+      "pos": "38",
+      "diff_percent": 0.65,
+      "itms": [{ "rt": 12, "txval": 250000, "iamt": 19500, "csamt": 0 }]
+    },
+    {
+      "omon": "072020",
+      "sply_ty": "INTER",
+      "typ": "OE",
+      "pos": "32",
+      "itms": [{ "rt": 5, "txval": 76000.45, "iamt": 3800.02, "csamt": 0 }]
+    },
+    {
+      "omon": "072020",
+      "sply_ty": "INTER",
+      "typ": "OE",
+      "pos": "36",
+      "itms": [{ "rt": 1.5, "txval": 350004.56, "iamt": 5250.07, "csamt": 0 }]
+    },
+    {
+      "omon": "042020",
+      "sply_ty": "INTER",
+      "typ": "OE",
+      "pos": "14",
+      "itms": [{ "rt": 0.25, "txval": 8000000, "iamt": 20000, "csamt": 20000 }]
+    }
+  ],
+  "nil": {
+    "inv": [
+      {
+        "sply_ty": "INTRB2B",
+        "expt_amt": 51235,
+        "nil_amt": 21143,
+        "ngsup_amt": 5213
+      },
+      { "sply_ty": "INTRAB2B", "expt_amt": 0, "nil_amt": 0, "ngsup_amt": 0 },
+      {
+        "sply_ty": "INTRB2C",
+        "expt_amt": 512,
+        "nil_amt": 1234,
+        "ngsup_amt": 5123
+      },
+      { "sply_ty": "INTRAB2C", "expt_amt": 0, "nil_amt": 0, "ngsup_amt": 0 }
+    ]
+  },
+  "exp": [
+    {
+      "exp_typ": "WOPAY",
+      "inv": [
+        {
+          "inum": "81510",
+          "idt": "14-07-2017",
+          "val": 80048.36,
+          "sbpcode": "INB995",
+          "sbnum": "184298",
+          "sbdt": "15-07-2017",
+          "itms": [{ "txval": 78788, "rt": 6, "iamt": 0, "csamt": 0 }]
+        },
+        {
+          "inum": "81511",
+          "idt": "14-07-2017",
+          "val": 50990,
+          "sbpcode": "INB996",
+          "sbnum": "184299",
+          "sbdt": "15-07-2017",
+          "itms": [{ "txval": 44545, "rt": 12, "iamt": 0, "csamt": 0 }]
+        }
+      ]
+    },
+    {
+      "exp_typ": "WPAY",
+      "inv": [
+        {
+          "inum": "81512",
+          "idt": "14-07-2017",
+          "val": 50048.36,
+          "sbpcode": "INB997",
+          "sbnum": "184300",
+          "sbdt": "15-07-2017",
+          "itms": [{ "txval": 48644, "rt": 12, "iamt": 5837.28, "csamt": 0 }]
+        },
+        {
+          "inum": "81519",
+          "idt": "14-07-2017",
+          "val": 55048,
+          "sbpcode": "INB995",
+          "sbnum": "184301",
+          "sbdt": "15-07-2017",
+          "itms": [{ "txval": 0, "rt": 5, "iamt": 0, "csamt": 0 }]
+        },
+        {
+          "inum": "81520",
+          "idt": "14-07-2017",
+          "val": 59000,
+          "sbpcode": "INB996",
+          "sbnum": "184302",
+          "sbdt": "15-07-2017",
+          "itms": [{ "txval": 54548, "rt": 5, "iamt": 2727.4, "csamt": 0 }]
+        },
+        {
+          "inum": "81521",
+          "idt": "14-07-2017",
+          "val": 110000,
+          "sbpcode": "INB997",
+          "sbnum": "184303",
+          "sbdt": "15-07-2017",
+          "itms": [
+            { "txval": 55567, "rt": 18, "iamt": 10002.06, "csamt": 0 },
+            { "txval": 50567, "rt": 5, "iamt": 2528.35, "csamt": 0 }
+          ]
+        }
+      ]
+    }
+  ],
+  "expa": [
+    {
+      "exp_typ": "WOPAY",
+      "inv": [
+        {
+          "oinum": "81510",
+          "oidt": "14-07-2017",
+          "inum": "91510",
+          "idt": "14-08-2017",
+          "val": 80048.36,
+          "sbpcode": "INB995",
+          "sbnum": "184298",
+          "sbdt": "15-09-2017",
+          "itms": [{ "txval": 78788, "rt": 6, "iamt": 0, "csamt": 0 }]
+        },
+        {
+          "oinum": "81511",
+          "oidt": "14-07-2017",
+          "inum": "91511",
+          "idt": "15-08-2017",
+          "val": 50990,
+          "sbpcode": "INB996",
+          "sbnum": "184299",
+          "sbdt": "16-09-2017",
+          "itms": [{ "txval": 44545, "rt": 12, "iamt": 0, "csamt": 0 }]
+        }
+      ]
+    },
+    {
+      "exp_typ": "WPAY",
+      "inv": [
+        {
+          "oinum": "81512",
+          "oidt": "14-07-2017",
+          "inum": "91512",
+          "idt": "16-08-2017",
+          "val": 50048.36,
+          "sbpcode": "INB997",
+          "sbnum": "184300",
+          "sbdt": "17-09-2017",
+          "itms": [{ "txval": 48644, "rt": 12, "iamt": 5837.28, "csamt": 0 }]
+        },
+        {
+          "oinum": "81519",
+          "oidt": "14-07-2017",
+          "inum": "91513",
+          "idt": "17-08-2017",
+          "val": 55048,
+          "sbpcode": "INB995",
+          "sbnum": "184301",
+          "sbdt": "18-09-2017",
+          "itms": [{ "txval": 0, "rt": 5, "iamt": 0, "csamt": 0 }]
+        },
+        {
+          "oinum": "81520",
+          "oidt": "14-07-2017",
+          "inum": "91514",
+          "idt": "18-08-2017",
+          "val": 59000,
+          "sbpcode": "INB996",
+          "sbnum": "184302",
+          "sbdt": "19-09-2017",
+          "itms": [{ "txval": 54548, "rt": 5, "iamt": 2727.4, "csamt": 0 }]
+        },
+        {
+          "oinum": "81521",
+          "oidt": "14-07-2017",
+          "inum": "91515",
+          "idt": "19-08-2017",
+          "val": 110000,
+          "sbpcode": "INB997",
+          "sbnum": "184303",
+          "sbdt": "20-09-2017",
+          "itms": [{ "txval": 55567, "rt": 18, "iamt": 10002.06, "csamt": 0 }]
+        },
+        {
+          "oinum": "81527",
+          "oidt": "14-07-2017",
+          "inum": "91516",
+          "idt": "20-08-2017",
+          "val": 110000,
+          "sbpcode": "INB997",
+          "sbnum": "184303",
+          "sbdt": "21-09-2017",
+          "itms": [{ "txval": 50567, "rt": 5, "iamt": 2528.35, "csamt": 0 }]
+        }
+      ]
+    }
+  ],
+  "cdnra": [
+    {
+      "ctin": "12GEOPS0823BBZH",
+      "nt": [
+        {
+          "ont_num": "90001",
+          "ont_dt": "15-07-2017",
+          "nt_num": "90001",
+          "nt_dt": "15-07-2017",
+          "ntty": "C",
+          "val": 52000,
+          "pos": "33",
+          "diff_percent": 0.65,
+          "rchrg": "Y",
+          "inv_typ": "R",
+          "itms": [
+            {
+              "num": 601,
+              "itm_det": { "txval": 40000, "rt": 6, "iamt": 1560, "csamt": 0 }
+            }
+          ]
+        },
+        {
+          "ont_num": "90002",
+          "ont_dt": "15-07-2017",
+          "nt_num": "90002",
+          "nt_dt": "15-07-2017",
+          "ntty": "C",
+          "val": 0,
+          "pos": "10",
+          "rchrg": "N",
+          "inv_typ": "DE",
+          "itms": [
+            {
+              "num": 1201,
+              "itm_det": { "txval": 50000, "rt": 12, "iamt": 6000, "csamt": 0 }
+            }
+          ]
+        },
+        {
+          "ont_num": "90003",
+          "ont_dt": "15-07-2017",
+          "nt_num": "90003",
+          "nt_dt": "15-07-2017",
+          "ntty": "C",
+          "val": 20000,
+          "pos": "07",
+          "rchrg": "N",
+          "inv_typ": "SEWP",
+          "itms": [
+            {
+              "num": 501,
+              "itm_det": { "txval": 25000, "rt": 5, "iamt": 1250, "csamt": 100 }
+            }
+          ]
+        },
+        {
+          "ont_num": "90004",
+          "ont_dt": "15-07-2017",
+          "nt_num": "90004",
+          "nt_dt": "15-07-2017",
+          "ntty": "D",
+          "val": 50000,
+          "pos": "33",
+          "rchrg": "N",
+          "inv_typ": "SEWOP",
+          "itms": [
+            {
+              "num": 501,
+              "itm_det": { "txval": 20000, "rt": 5, "iamt": 0, "csamt": 0 }
+            }
+          ]
+        },
+        {
+          "ont_num": "90005",
+          "ont_dt": "15-07-2017",
+          "nt_num": "90005",
+          "nt_dt": "15-07-2017",
+          "ntty": "C",
+          "val": 90000,
+          "pos": "12",
+          "rchrg": "N",
+          "inv_typ": "R",
+          "itms": [
+            {
+              "num": 1801,
+              "itm_det": {
+                "txval": 40000,
+                "rt": 18,
+                "iamt": 7200,
+                "csamt": 200
+              }
+            }
+          ]
+        },
+        {
+          "ont_num": "90006",
+          "ont_dt": "15-07-2017",
+          "nt_num": "90006",
+          "nt_dt": "15-07-2017",
+          "ntty": "C",
+          "val": 90000,
+          "pos": "07",
+          "rchrg": "N",
+          "inv_typ": "DE",
+          "itms": [
+            {
+              "num": 301,
+              "itm_det": { "txval": 40000, "rt": 3, "iamt": 1200, "csamt": 0 }
+            }
+          ]
+        },
+        {
+          "ont_num": "90007",
+          "ont_dt": "16-07-2017",
+          "nt_num": "90007",
+          "nt_dt": "16-07-2017",
+          "ntty": "C",
+          "val": 90000,
+          "pos": "27",
+          "rchrg": "Y",
+          "inv_typ": "R",
+          "itms": [
+            {
+              "num": 1201,
+              "itm_det": { "txval": 81000, "rt": 12, "iamt": 9720, "csamt": 0 }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ctin": "3320IND00074NRY",
+      "nt": [
+        {
+          "ont_num": "90008",
+          "ont_dt": "17-07-2017",
+          "nt_num": "90008",
+          "nt_dt": "17-07-2017",
+          "ntty": "C",
+          "val": 90000,
+          "pos": "33",
+          "diff_percent": 0.65,
+          "rchrg": "Y",
+          "inv_typ": "CBW",
+          "itms": [
+            {
+              "num": 501,
+              "itm_det": { "txval": 88000, "rt": 5, "iamt": 2860, "csamt": 0 }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "at": [
+    {
+      "pos": "32",
+      "sply_ty": "INTER",
+      "diff_percent": 0.65,
+      "itms": [{ "rt": 6, "ad_amt": 15445, "iamt": 602.36, "csamt": 6819 }]
+    },
+    {
+      "pos": "02",
+      "sply_ty": "INTER",
+      "itms": [{ "rt": 5, "ad_amt": 15445, "iamt": 772.25, "csamt": 5901 }]
+    },
+    {
+      "pos": "36",
+      "sply_ty": "INTER",
+      "itms": [{ "rt": 3, "ad_amt": 87515, "iamt": 2625.45, "csamt": 4542 }]
+    },
+    {
+      "pos": "04",
+      "sply_ty": "INTER",
+      "itms": [{ "rt": 1, "ad_amt": 34234, "iamt": 342.34, "csamt": 23424 }]
+    },
+    {
+      "pos": "05",
+      "sply_ty": "INTER",
+      "itms": [{ "rt": 0.25, "ad_amt": -6464, "iamt": -16.16, "csamt": -4564 }]
+    }
+  ],
+  "ata": [
+    {
+      "omon": "052020",
+      "pos": "32",
+      "sply_ty": "INTER",
+      "diff_percent": 0.65,
+      "itms": [{ "rt": 6, "ad_amt": 15445, "iamt": 602.36, "csamt": 6819 }]
+    },
+    {
+      "omon": "052020",
+      "pos": "02",
+      "sply_ty": "INTER",
+      "itms": [{ "rt": 5, "ad_amt": 1544, "iamt": 77.2, "csamt": 5901 }]
+    },
+    {
+      "omon": "052020",
+      "pos": "36",
+      "sply_ty": "INTER",
+      "itms": [{ "rt": 3, "ad_amt": 87515, "iamt": 2625.45, "csamt": 342342 }]
+    },
+    {
+      "omon": "052020",
+      "pos": "03",
+      "sply_ty": "INTER",
+      "itms": [{ "rt": 0.1, "ad_amt": 23123, "iamt": 23.12, "csamt": 2312 }]
+    },
+    {
+      "omon": "052020",
+      "pos": "07",
+      "sply_ty": "INTER",
+      "itms": [{ "rt": 0.1, "ad_amt": -32242, "iamt": -32.24, "csamt": -23231 }]
+    },
+    {
+      "omon": "032021",
+      "pos": "01",
+      "sply_ty": "INTER",
+      "itms": [{ "rt": 0.25, "ad_amt": 1000, "iamt": 2.5, "csamt": 100 }]
+    }
+  ],
+  "cdnr": [
+    {
+      "ctin": "33AHLPP9363BMZN",
+      "nt": [
+        {
+          "nt_num": "Cas01",
+          "nt_dt": "01-04-2019",
+          "ntty": "C",
+          "val": 575136,
+          "pos": "33",
+          "diff_percent": 0.65,
+          "rchrg": "Y",
+          "inv_typ": "R",
+          "itms": [
+            {
+              "num": 601,
+              "itm_det": { "txval": 12, "rt": 6, "iamt": 0.47, "csamt": 0 }
+            }
+          ]
+        },
+        {
+          "nt_num": "Cas02",
+          "nt_dt": "02-04-2019",
+          "ntty": "D",
+          "val": 5878,
+          "pos": "10",
+          "rchrg": "N",
+          "inv_typ": "DE",
+          "itms": [
+            {
+              "num": 26,
+              "itm_det": { "txval": 789, "rt": 0.25, "iamt": 1.97, "csamt": 0 }
+            }
+          ]
+        },
+        {
+          "nt_num": "cas03",
+          "nt_dt": "02-04-2019",
+          "ntty": "D",
+          "val": 5878,
+          "pos": "33",
+          "rchrg": "Y",
+          "inv_typ": "CBW",
+          "itms": [
+            {
+              "num": 301,
+              "itm_det": { "txval": 12, "rt": 3, "iamt": 0.36, "csamt": 0 }
+            }
+          ]
+        },
+        {
+          "nt_num": "cas04",
+          "nt_dt": "02-04-2019",
+          "ntty": "D",
+          "val": 5878,
+          "pos": "33",
+          "rchrg": "N",
+          "inv_typ": "DE",
+          "itms": [
+            {
+              "num": 301,
+              "itm_det": { "txval": 12, "rt": 3, "iamt": 0.36, "csamt": 0 }
+            }
+          ]
+        },
+        {
+          "nt_num": "cas06",
+          "nt_dt": "02-04-2019",
+          "ntty": "D",
+          "val": 5878,
+          "pos": "33",
+          "rchrg": "Y",
+          "inv_typ": "CBW",
+          "itms": [
+            {
+              "num": 301,
+              "itm_det": { "txval": 5676, "rt": 3, "iamt": 170.28, "csamt": 0 }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ctin": "33DSUNT1129E1ZN",
+      "nt": [
+        {
+          "nt_num": "wp01",
+          "nt_dt": "03-04-2019",
+          "ntty": "D",
+          "val": 6947,
+          "pos": "07",
+          "rchrg": "N",
+          "inv_typ": "SEWP",
+          "itms": [
+            {
+              "num": 26,
+              "itm_det": { "txval": 234, "rt": 0.25, "iamt": 0.58, "csamt": 0 }
+            }
+          ]
+        },
+        {
+          "nt_num": "wop01",
+          "nt_dt": "04-04-2019",
+          "ntty": "C",
+          "val": 6947,
+          "pos": "33",
+          "rchrg": "N",
+          "inv_typ": "SEWOP",
+          "itms": [
+            {
+              "num": 26,
+              "itm_det": { "txval": 89, "rt": 0.25, "iamt": 0, "csamt": 0 }
+            }
+          ]
+        },
+        {
+          "nt_num": "wp02",
+          "nt_dt": "03-04-2019",
+          "ntty": "D",
+          "val": 6947,
+          "pos": "33",
+          "rchrg": "N",
+          "inv_typ": "SEWP",
+          "itms": [
+            {
+              "num": 26,
+              "itm_det": { "txval": 234, "rt": 0.25, "iamt": 0.58, "csamt": 0 }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ctin": "33AACCA1121EDZB",
+      "nt": [
+        {
+          "nt_num": "isdunit01",
+          "nt_dt": "06-04-2019",
+          "ntty": "C",
+          "val": 6947,
+          "pos": "12",
+          "rchrg": "N",
+          "inv_typ": "R",
+          "itms": [
+            {
+              "num": 11,
+              "itm_det": { "txval": 234, "rt": 0.1, "iamt": 0.23, "csamt": 0 }
+            }
+          ]
+        },
+        {
+          "nt_num": "NRTP01",
+          "nt_dt": "07-04-2019",
+          "ntty": "C",
+          "val": 6947,
+          "pos": "07",
+          "diff_percent": 0.65,
+          "rchrg": "N",
+          "inv_typ": "DE",
+          "itms": [
+            {
+              "num": 26,
+              "itm_det": { "txval": 678, "rt": 0.25, "iamt": 1.1, "csamt": 0 }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ctin": "33ABPPM5867J1Z1",
+      "nt": [
+        {
+          "nt_num": "composition01",
+          "nt_dt": "07-04-2019",
+          "ntty": "C",
+          "val": 6947,
+          "pos": "10",
+          "rchrg": "Y",
+          "inv_typ": "R",
+          "itms": [
+            {
+              "num": 26,
+              "itm_det": { "txval": 2345, "rt": 0.25, "iamt": 5.86, "csamt": 0 }
+            }
+          ]
+        },
+        {
+          "nt_num": "composition02",
+          "nt_dt": "07-04-2019",
+          "ntty": "C",
+          "val": 6947,
+          "pos": "10",
+          "rchrg": "N",
+          "inv_typ": "DE",
+          "itms": [
+            {
+              "num": 26,
+              "itm_det": { "txval": 2345, "rt": 0.25, "iamt": 5.86, "csamt": 0 }
+            }
+          ]
+        },
+        {
+          "nt_num": "composition03",
+          "nt_dt": "07-04-2019",
+          "ntty": "C",
+          "val": 6947,
+          "pos": "10",
+          "rchrg": "Y",
+          "inv_typ": "CBW",
+          "itms": [
+            {
+              "num": 26,
+              "itm_det": { "txval": 2345, "rt": 0.25, "iamt": 5.86, "csamt": 0 }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ctin": "3320IND00074NRY",
+      "nt": [
+        {
+          "nt_num": "NRTP3",
+          "nt_dt": "07-04-2019",
+          "ntty": "C",
+          "val": 6947,
+          "pos": "33",
+          "rchrg": "Y",
+          "inv_typ": "CBW",
+          "itms": [
+            {
+              "num": 26,
+              "itm_det": { "txval": 2345, "rt": 0.25, "iamt": 5.86, "csamt": 0 }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "cdnur": [
+    {
+      "nt_num": "90009",
+      "nt_dt": "15-07-2017",
+      "ntty": "C",
+      "val": 0,
+      "typ": "B2CL",
+      "pos": "32",
+      "diff_percent": 0.65,
+      "itms": [
+        {
+          "num": 601,
+          "itm_det": { "txval": 2313, "rt": 6, "iamt": 90.21, "csamt": 0 }
+        }
+      ]
+    },
+    {
+      "nt_num": "90010",
+      "nt_dt": "15-07-2017",
+      "ntty": "D",
+      "val": 27000,
+      "typ": "B2CL",
+      "pos": "37",
+      "itms": [
+        {
+          "num": 1201,
+          "itm_det": { "txval": 25000, "rt": 12, "iamt": 3000, "csamt": 3400 }
+        }
+      ]
+    },
+    {
+      "nt_num": "90011",
+      "nt_dt": "15-07-2017",
+      "ntty": "C",
+      "val": 25500,
+      "typ": "EXPWOP",
+      "itms": [
+        {
+          "num": 2801,
+          "itm_det": { "txval": 25000, "rt": 28, "iamt": 0, "csamt": 0 }
+        }
+      ]
+    },
+    {
+      "nt_num": "90012",
+      "nt_dt": "15-07-2017",
+      "ntty": "C",
+      "val": 26000,
+      "typ": "EXPWOP",
+      "itms": [
+        {
+          "num": 1201,
+          "itm_det": { "txval": 25000, "rt": 12, "iamt": 0, "csamt": 0 }
+        }
+      ]
+    },
+    {
+      "nt_num": "90013",
+      "nt_dt": "15-07-2017",
+      "ntty": "D",
+      "val": 27000,
+      "typ": "B2CL",
+      "pos": "37",
+      "itms": [
+        {
+          "num": 1201,
+          "itm_det": { "txval": 25500, "rt": 12, "iamt": 3060, "csamt": 3400 }
+        }
+      ]
+    },
+    {
+      "nt_num": "90014",
+      "nt_dt": "15-07-2017",
+      "ntty": "C",
+      "val": 28000,
+      "typ": "B2CL",
+      "pos": "37",
+      "itms": [
+        {
+          "num": 1801,
+          "itm_det": { "txval": 27000, "rt": 18, "iamt": 4860, "csamt": 0 }
+        }
+      ]
+    },
+    {
+      "nt_num": "90015",
+      "nt_dt": "17-07-2017",
+      "ntty": "D",
+      "val": 50000,
+      "typ": "B2CL",
+      "pos": "04",
+      "itms": [
+        {
+          "num": 1201,
+          "itm_det": { "txval": 27000, "rt": 12, "iamt": 3240, "csamt": 0 }
+        },
+        {
+          "num": 151,
+          "itm_det": { "txval": 27000, "rt": 1.5, "iamt": 405, "csamt": 0 }
+        }
+      ]
+    }
+  ],
+  "cdnura": [
+    {
+      "ont_num": "90009",
+      "ont_dt": "15-07-2017",
+      "nt_num": "CDN1000",
+      "nt_dt": "15-07-2017",
+      "ntty": "C",
+      "val": 0,
+      "typ": "B2CL",
+      "pos": "32",
+      "diff_percent": 0.65,
+      "itms": [
+        {
+          "num": 601,
+          "itm_det": { "txval": 25000, "rt": 6, "iamt": 975, "csamt": 0 }
+        }
+      ]
+    },
+    {
+      "ont_num": "90010",
+      "ont_dt": "15-07-2017",
+      "nt_num": "CDN1001",
+      "nt_dt": "15-07-2017",
+      "ntty": "D",
+      "val": 27000,
+      "typ": "B2CL",
+      "pos": "27",
+      "itms": [
+        {
+          "num": 1201,
+          "itm_det": { "txval": 25000, "rt": 12, "iamt": 3000, "csamt": 3400 }
+        }
+      ]
+    },
+    {
+      "ont_num": "90011",
+      "ont_dt": "15-07-2017",
+      "nt_num": "CDN1002",
+      "nt_dt": "15-07-2017",
+      "ntty": "C",
+      "val": 25500,
+      "typ": "B2CL",
+      "pos": "01",
+      "itms": [
+        {
+          "num": 2801,
+          "itm_det": { "txval": 25000, "rt": 28, "iamt": 7000, "csamt": 0 }
+        }
+      ]
+    },
+    {
+      "ont_num": "90012",
+      "ont_dt": "15-07-2017",
+      "nt_num": "CDN1003",
+      "nt_dt": "15-07-2017",
+      "ntty": "C",
+      "val": 26000,
+      "typ": "EXPWP",
+      "itms": [
+        {
+          "num": 1201,
+          "itm_det": { "txval": 25000, "rt": 12, "iamt": 3000, "csamt": 0 }
+        }
+      ]
+    },
+    {
+      "ont_num": "90013",
+      "ont_dt": "15-07-2017",
+      "nt_num": "CDN1004",
+      "nt_dt": "15-07-2017",
+      "ntty": "D",
+      "val": 27000,
+      "typ": "EXPWOP",
+      "itms": [
+        {
+          "num": 1201,
+          "itm_det": { "txval": 25500, "rt": 12, "iamt": 0, "csamt": 0 }
+        }
+      ]
+    },
+    {
+      "ont_num": "90015",
+      "ont_dt": "17-07-2017",
+      "nt_num": "CDN1007",
+      "nt_dt": "17-07-2017",
+      "ntty": "D",
+      "val": 50000,
+      "typ": "B2CL",
+      "pos": "04",
+      "itms": [
+        {
+          "num": 501,
+          "itm_det": { "txval": 27000, "rt": 5, "iamt": 1350, "csamt": 3400 }
+        }
+      ]
+    },
+    {
+      "ont_num": "90014",
+      "ont_dt": "15-07-2017",
+      "nt_num": "CDN1005",
+      "nt_dt": "15-07-2017",
+      "ntty": "C",
+      "val": 28000,
+      "typ": "B2CL",
+      "pos": "37",
+      "itms": [
+        {
+          "num": 1801,
+          "itm_det": { "txval": 27000, "rt": 18, "iamt": 4860, "csamt": 234 }
+        }
+      ]
+    }
+  ],
+  "doc_issue": {
+    "doc_det": [
+      {
+        "doc_num": 1,
+        "doc_typ": "Invoices for outward supply",
+        "docs": [
+          {
+            "num": 1,
+            "from": "A1",
+            "to": "A100",
+            "totnum": 51235,
+            "cancel": 6123,
+            "net_issue": 45112
+          },
+          {
+            "num": 2,
+            "from": "B1",
+            "to": "B100",
+            "totnum": 62356,
+            "cancel": 234,
+            "net_issue": 62122
+          },
+          {
+            "num": 3,
+            "from": "Abc10",
+            "to": "Xyz100",
+            "totnum": 1234,
+            "cancel": 512,
+            "net_issue": 722
+          }
+        ]
+      },
+      {
+        "doc_num": 4,
+        "doc_typ": "Debit Note",
+        "docs": [
+          {
+            "num": 1,
+            "from": "C1",
+            "to": "C50",
+            "totnum": 723741,
+            "cancel": 734,
+            "net_issue": 723007
+          },
+          {
+            "num": 2,
+            "from": "D1",
+            "to": "D50",
+            "totnum": 728741,
+            "cancel": 700,
+            "net_issue": 728041
+          }
+        ]
+      },
+      {
+        "doc_num": 9,
+        "doc_typ": "Delivery Challan for job work",
+        "docs": [
+          {
+            "num": 1,
+            "from": "E1",
+            "to": "E100",
+            "totnum": 62356,
+            "cancel": 234,
+            "net_issue": 62122
+          }
+        ]
+      },
+      {
+        "doc_num": 2,
+        "doc_typ": "Invoices for inward supply from unregistered person",
+        "docs": [
+          {
+            "num": 1,
+            "from": "F1",
+            "to": "F50",
+            "totnum": 723741,
+            "cancel": 734,
+            "net_issue": 723007
+          }
+        ]
+      },
+      {
+        "doc_num": 8,
+        "doc_typ": "Refund Voucher",
+        "docs": [
+          {
+            "num": 1,
+            "from": "G1",
+            "to": "G50",
+            "totnum": 728741,
+            "cancel": 700,
+            "net_issue": 728041
+          }
+        ]
+      }
+    ]
+  },
+  "hsn": {
+    "data": [
+      {
+        "num": 1,
+        "hsn_sc": "3401",
+        "uqc": "BAG",
+        "qty": -7345,
+        "val": -10,
+        "txval": -6435,
+        "iamt": 436,
+        "samt": 0,
+        "camt": 0,
+        "csamt": 0
+      },
+      {
+        "num": 2,
+        "hsn_sc": "1101",
+        "uqc": "DRM",
+        "qty": 74,
+        "val": 6000,
+        "txval": -7634,
+        "iamt": 0,
+        "samt": -876,
+        "camt": 657,
+        "csamt": 0
+      },
+      {
+        "num": 3,
+        "hsn_sc": "45011000",
+        "uqc": "DRM",
+        "qty": 20,
+        "val": 47835,
+        "txval": 879,
+        "iamt": 8900,
+        "samt": 0,
+        "camt": 0,
+        "csamt": 786
+      },
+      {
+        "num": 4,
+        "hsn_sc": "320300",
+        "uqc": "LTR",
+        "qty": -34,
+        "val": 123456,
+        "txval": 4322,
+        "iamt": -6435,
+        "samt": 0,
+        "camt": 0,
+        "csamt": 0
+      },
+      {
+        "num": 5,
+        "hsn_sc": "0101",
+        "uqc": "BOU",
+        "qty": -644,
+        "val": 45767887,
+        "txval": 678985,
+        "iamt": 6767,
+        "samt": 87456,
+        "camt": -756,
+        "csamt": 0
+      },
+      {
+        "num": 6,
+        "hsn_sc": "12",
+        "uqc": "BTL",
+        "qty": 6742354,
+        "val": 534512346,
+        "txval": 76867,
+        "iamt": 9,
+        "samt": 9,
+        "camt": 87,
+        "csamt": 9
+      },
+      {
+        "num": 7,
+        "hsn_sc": "1234",
+        "uqc": "BAL",
+        "qty": 3,
+        "val": 3,
+        "txval": 3,
+        "iamt": 3,
+        "samt": 3,
+        "camt": 3,
+        "csamt": 3
+      },
+      {
+        "num": 8,
+        "hsn_sc": "1234567",
+        "uqc": "BAL",
+        "qty": 3,
+        "val": 3,
+        "txval": 3,
+        "iamt": 3,
+        "samt": 3,
+        "camt": 3,
+        "csamt": 3
+      }
+    ]
+  },
+  "txpd": [
+    {
+      "pos": "01",
+      "sply_ty": "INTER",
+      "diff_percent": 0.65,
+      "itms": [{ "rt": 6, "ad_amt": 30000, "iamt": 1170, "csamt": 2300 }]
+    },
+    {
+      "pos": "04",
+      "sply_ty": "INTER",
+      "itms": [{ "rt": 18, "ad_amt": 15000, "iamt": 2700, "csamt": 2200 }]
+    },
+    {
+      "pos": "36",
+      "sply_ty": "INTER",
+      "itms": [{ "rt": 12, "ad_amt": 30000, "iamt": 3600 }]
+    }
+  ],
+  "txpda": [
+    {
+      "omon": "062020",
+      "pos": "32",
+      "sply_ty": "INTER",
+      "diff_percent": 0.65,
+      "itms": [{ "rt": 6, "ad_amt": 30000, "iamt": 1170, "csamt": 2300 }]
+    },
+    {
+      "omon": "072020",
+      "pos": "02",
+      "sply_ty": "INTER",
+      "itms": [{ "rt": 5, "ad_amt": 15000, "iamt": 750, "csamt": 2200 }]
+    },
+    {
+      "omon": "072020",
+      "pos": "36",
+      "sply_ty": "INTER",
+      "itms": [{ "rt": 3, "ad_amt": 30000, "iamt": 900 }]
+    },
+    {
+      "omon": "032021",
+      "pos": "03",
+      "sply_ty": "INTER",
+      "diff_percent": 0.65,
+      "itms": [{ "rt": 0.25, "ad_amt": 500000, "iamt": 812.5, "csamt": 1000 }]
+    },
+    {
+      "omon": "032021",
+      "pos": "04",
+      "sply_ty": "INTER",
+      "itms": [{ "rt": 1, "ad_amt": 100, "iamt": 1 }]
+    }
+  ]
+}
